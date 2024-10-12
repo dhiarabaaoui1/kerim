@@ -1,0 +1,24 @@
+Remarques Tomy : 
+- Réponse Pour  question Backend et savoir comment faire le back du page candidature 
+
+- Besoin du passer au site basic : abonnement à cause de besoin d : -embed /  fichier load / date input /  les champs de saisie de numéro de téléphone avec la sélection automatique du pays  
+
+- Voir avec Tomy pour le vidéos : tenant compte que tomy a suggérer d'integrir les videos , il faut prendre son avis sur la forme soit un modal qui ouvre au clique soit video tout seul soit une section  qui reparti sur deux : une pour titre  et autres pour video voir page ...
+
+
+Pour le site les notes : 
+
+- Le video n'est pas bon en attendant la reponse du tomy 
+
+- Style FAQ du page formation n'est pas bon les sous titre , besoin d'un aide au design
+
+
+Pour le map prochain :
+
+- Je compte faire les 3 point aprés réponse du Tomy 
+
+- Integrer Video Hygyene 
+
+- Réaliser des modifs aprés votre retour : tomy, eizdine, Hichem 
+
+- dans un second temps, j'ai quelques modif au niveau du nom de quelques compsont et des sections, ca ce fait dans un second temps car pour le moment ne sont pas obligatoires mais aprés si, pour etre clair aux autre developpeur 

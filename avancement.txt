@@ -1,0 +1,16 @@
+front end : Mise en place de l'ensemble des pages du site (Accueil, Formations, Candidature, Partenaire, Contact, À propos) avec leur contenu spécifique. Chaque page inclut une section header cohérente et un design optimisé pour une navigation fluide.
+
+Relation front et back : 
+J'ai pris le temps nécessaire pour comprendre comment intégrer le front-end avec le back-end de notre projet, surtout que Tomy n'était pas disponible pour m'orienter. Après quelques tests et expérimentations, j'ai réussi à comprendre le fonctionnement entre Webflow et Xano, ce qui m'a permis d'établir une connexion efficace entre les deux
+
+obstacle :  
+Un des principaux obstacles auxquels je fais face est la limitation du plan actuel de Webflow, qui empêche l'ajout de certaines fonctionnalités comme le chargement de fichiers ou l'intégration de code JavaScript personnalisé
+
+roadmap : 
+1- Demain, vous êtes invités à examiner le site web et à me faire part de vos remarques et suggestions
+
+2- La semaine prochaine sera consacrée à finaliser le front-end. Cela inclut les modifications basées sur vos remarques, la création des deux pages manquantes et l'ajustement de certaines fonctionnalités pour atteindre un front-end à 100%
+
+3-La semaine suivante sera dédiée au développement du back-end, avec la mise en place de la gestion des candidatures, des étudiants et des partenaires, ainsi que l'intégration complète avec la base de données
+
+4-La dernière semaine sera consacrée à rendre le site totalement responsive, effectuer un dernier check complet pour s'assurer que tout fonctionne correctement et préparer le site pour sa mise en ligne officielle.

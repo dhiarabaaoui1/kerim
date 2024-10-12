@@ -1,0 +1,6 @@
+git checkout -b feature/nouvelle-fonctionnalite develop
+
+
+git add .
+git commit -m "Ajout de la nouvelle fonctionnalité"
+git push origin feature/nouvelle-fonctionnalite
